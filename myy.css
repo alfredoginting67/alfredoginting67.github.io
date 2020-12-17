@@ -1,0 +1,22 @@
+#top-nav {
+    background-color: #c0d5e6;
+    min-height: 30px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-align: right;
+    text-transform: uppercase;
+    border-bottom: solid 2px #FFF;
+    font-size: 12px;
+    color: #00345f;
+    padding-right: 2%;
+}
+#header {
+    background-color: #00345f;
+    min-height: 54px;
+    line-height: 54px;
+    letter-spacing: .5px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: solid 2px #2954be;
+    font-size: 14px;
+}
